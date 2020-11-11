@@ -1,9 +1,15 @@
 {
+  // daily notes (https://foambubble.github.io/foam/daily-notes)
+  "foam.openDailyNote.directory": "journal",
+  "foam.openDailyNote.filenameFormat": "'daily-note'-yyyy-mm-dd",
+  "foam.openDailyNote.fileExtension": "mdx",
+  "foam.openDailyNote.titleFormat": "'Journal Entry, ' dddd, mmmm d",
+
   "editor.minimap.enabled": false,
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
-  "workbench.colorTheme": "Gray Matter Light",
+  "workbench.colorTheme": "Gray Matter Dark",
   "[markdown]": {
     "editor.quickSuggestions": true
   },
