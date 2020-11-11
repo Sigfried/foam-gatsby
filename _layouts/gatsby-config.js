@@ -1,7 +1,7 @@
 module.exports = {
-  pathPrefix: `/foam-gatsby-private`,
+  pathPrefix: `/foam-gatsby`,
   siteMetadata: {
-    title: `My Private Everything`,
+    title: `My Everything Maybe, Someday`,
   },
   plugins: [
     {

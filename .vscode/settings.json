@@ -1,4 +1,8 @@
 {
+
+  "markdown-image.local.path": "/images",
+
+
   // daily notes (https://foambubble.github.io/foam/daily-notes)
   "foam.openDailyNote.directory": "journal",
   "foam.openDailyNote.filenameFormat": "'daily-note'-yyyy-mm-dd",
